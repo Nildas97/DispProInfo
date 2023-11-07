@@ -1,6 +1,4 @@
- # Hey! Nice to see you.
-
-<h2 align="center">Hi, I'm Nilutpal Das </h2>
+<h1 align="center">Hi, I'm Nilutpal Das </h1>
 
 ## **ABOUT ME**
 
