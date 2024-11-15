@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning **Machine Learning, MLOps Tools (MLFLOW, DVC), Tensorflow.**
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/nildas97)
-
-- ⚡ Fun fact I am a Mobile Photographer.
 ## **LANGUAGES AND TOOLS**
 
 <p align="left"> 
